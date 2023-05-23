@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cristian
+- 👋 Hi, I’m George
 - 👀 I’m interested in Full-Stack Web Applications
 - 🌱 I’m currently learning Graphql, Microservices and Backend Testing
 - 📫 You can reach me on Linkedin
